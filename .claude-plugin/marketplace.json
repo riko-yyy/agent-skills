@@ -1,0 +1,11 @@
+{
+  "name": "riko-skills",
+  "owner": { "name": "riko-yyy" },
+  "plugins": [
+    {
+      "name": "riko-skills",
+      "source": "./",
+      "description": "riko-yyy の自作 Claude Skill 集"
+    }
+  ]
+}
