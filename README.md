@@ -1,6 +1,6 @@
-# claude-skills
+# agent-skills
 
-riko-yyy の自作 Claude Skill 集。
+riko-yyy の自作 Agent Skill 集。
 
 ## Skills
 
@@ -13,10 +13,14 @@ riko-yyy の自作 Claude Skill 集。
 ### Claude Code（プラグインとして）
 
 ```
-/plugin marketplace add riko-yyy/claude-skills
-/plugin install riko-skills@riko-skills
+/plugin marketplace add riko-yyy/agent-skills
+/plugin install agent-skills@riko-yyy
 ```
 
 ### claude.ai
 
 `skills/<name>/` フォルダを zip にして、設定の Skills からアップロードする。
+
+## License
+
+MIT

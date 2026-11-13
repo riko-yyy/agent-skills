@@ -1,11 +1,11 @@
 {
-  "name": "riko-skills",
+  "name": "riko-yyy",
   "owner": { "name": "riko-yyy" },
   "plugins": [
     {
-      "name": "riko-skills",
+      "name": "agent-skills",
       "source": "./",
-      "description": "riko-yyy の自作 Claude Skill 集"
+      "description": "riko-yyy の自作 Agent Skill 集"
     }
   ]
 }
