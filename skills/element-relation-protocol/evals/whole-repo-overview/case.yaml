@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: whole-repo-overview
+expected_outcome: |
+  要素・関係・プロトコルに分解した図(SVG)と説明を1枚のHTMLで出し、読む順番と聞くことリストを含む
