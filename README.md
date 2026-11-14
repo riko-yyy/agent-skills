@@ -6,7 +6,7 @@ riko-yyy の自作 Agent Skill 集。
 
 | Skill | 用途 |
 |---|---|
-| [element-relation-protocol](skills/element-relation-protocol/SKILL.md) | コードや設計書から「要素・関係・プロトコル」でメンタルモデルを掴む。図(SVG)＋説明を出力 |
+| [element-relation-protocol](skills/element-relation-protocol/SKILL.md) | コード・plugin・文書群などを「要素(実行主体とリソース)・関連・プロトコル」に分解してメンタルモデルを掴む。図(SVG)＋説明を出力 |
 
 ## 使い方
 
